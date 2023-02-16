@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/INDEX_rake_temp.csv
